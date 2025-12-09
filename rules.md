@@ -24,7 +24,9 @@
 
     (b) Spielerkämpfe sind während Events untersagt. Beinhaltet das Event Spielerkämpfe, so nur unter der Moderation eines Eventorganisators.
 
-    (c) Die Eröffnung von Nether sowie End kann als Event gestaltet werden; sollte dies geschehen, so ist die Orga der Eventorganisator.
+    (c) Während der Wartezeit sowie Einführung in Events haben sowohl Eventteilnehmende als auch Zuschauende das eigene Mikrofon stumm zu schalten.
+
+    (d) Die Eröffnung von Nether sowie End kann als Event gestaltet werden; sollte dies geschehen, so ist die Orga der Eventorganisator.
 
 1.4 Fraktionen und Gruppen
 
