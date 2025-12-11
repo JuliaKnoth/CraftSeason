@@ -42,7 +42,7 @@
 
 1.5 Teilnahme
 
-    (a) Die Teilnahme an diesem Projekt ist für Spieler an Content gebunden. Folglich hat die Teilnahme unter der Bedingung statt zu finden, dass die Teilnahme für Content verwertet wird.
+    (a) Die Teilnahme an diesem Projekt ist für Spieler an Content gebunden. Folglich hat die Teilnahme unter der Bedingung stattzufinden, dass die Teilnahme für Content verwertet wird.
 
     (b) Das Streamen der Teilnahme ist erwünscht.
 
@@ -56,7 +56,7 @@
 
     (a) Die Nutzung von 'Mods' erfolgt nach Whitelist. Sofern eine Modifikation für das Spiel oder den Client nicht explizit erlaubt ist, so kann sie mit einem möglichen Ausschluss aus diesem und zukünftigen Projekten geahndet werden.
 
-    (b) Ein Ressourcepack oder Shader, welches die Transparenz, Modelle oder Renderweise von Blöcken maßgeblich verändert, wird als nicht erlaubte Modifikation gewertet.
+    (b) Ein Resourcepack oder Shader, welches die Transparenz, Modelle oder Renderweise von Blöcken maßgeblich verändert, wird als nicht erlaubte Modifikation gewertet.
 
 2.2 Erlaubte Modifikationen
 
@@ -88,7 +88,7 @@
 
     (c) Das Entwenden von Gegenständen aus Behältern, die nicht offensichtlich für die Allgemeinheit bestimmt sind, wird als Diebstahl gewertet und ist verboten. Dies gilt auch für ungesicherte Bereiche.
 
-    (d) Ein Behälter ist dann für die Allgemeinheit bestimmt, wenn dieser mit einem Schild als dieses gekennzeichnet ist. Hat ein Behälter keine Kennzeichnung, so ist davon auszugehen, das dieser nicht für die Allgemeinheit bestimmt ist.
+    (d) Ein Behälter ist dann für die Allgemeinheit bestimmt, wenn dieser mit einem Schild als dieses gekennzeichnet ist. Hat ein Behälter keine Kennzeichnung, so ist davon auszugehen, dass dieser nicht für die Allgemeinheit bestimmt ist.
 
 3.2 Lag
 
@@ -98,7 +98,7 @@
 
     (c) Spielern ist es freigestellt, Chunks zu laden. Hierbei ist zu beachten, dass das Laden einer unverhältnismäßig hohen Menge von Chunks durch einen einzelnen Spieler zu vermeiden ist.
 
-    (d) Das dauerhafte, unbeaufsichtigte Nutzen von Farmen (AFK-Farming), über einen längeren Zeitraum ist zu unterlassen.
+    (d) Das dauerhafte, unbeaufsichtigte Nutzen von Farmen (AFK-Farming) über einen längeren Zeitraum ist zu unterlassen.
 
 3.3 Bauen und Verhalten in der Welt
 
@@ -110,7 +110,7 @@
 
     (d) Bei Verlassen des Projekts sollten große Farmen oder technische Anlagen entfernt werden, um die Serverleistung nicht dauerhaft zu beeinträchtigen.
 
-    (e) Großflächiges Terraforming, die das Landschaftsbild nachhaltig zerstören sollte in einem angemessenen Rahmen bleiben.
+    (e) Großflächiges Terraforming, das das Landschaftsbild nachhaltig zerstört, sollte in einem angemessenen Rahmen bleiben.
 
 3.4 Handel
 
@@ -172,7 +172,7 @@
 
     (c) Die Entscheidungen der Orga sind immer mit diesem Regelwerk zu rechtfertigen. Ist dies nicht möglich, so dürfen die Entscheidungen angefochten werden. Wurde die Rechtfertigung korrekt nach Regelwerk gestaltet, so ist diese Entscheidung bindend.
 
-    (d) Die Orga darf nicht aktiv am Spielgeschehen teilnehmen. Dies beinhaltet u. a. den Handel sowie eine gemeinsame Fraktion. Die Orga behällt sich vor, dass sie abseits des allgemeinen Geschehens auf der selben Welt aktiv sein kann. Sollte dies der Fall sein dürfen reguläre Spieler, so sollten diese das Gebiet entdecken nicht mit dem Gebiet interagieren. Die Orga hat das Gebiet entsprechend zu kennzeichnen.
+    (d) Die Orga darf nicht aktiv am Spielgeschehen teilnehmen. Dies beinhaltet u. a. den Handel sowie eine gemeinsame Fraktion. Die Orga behält sich vor, dass sie abseits des allgemeinen Geschehens auf derselben Welt aktiv sein kann. Sollte dies der Fall sein, dürfen reguläre Spieler, die das Gebiet entdecken, nicht mit dem Gebiet interagieren. Die Orga hat das Gebiet entsprechend zu kennzeichnen.
 
     (e) Die Orga behält sich vor, in Stichproben die Spieler zu kontrollieren; dies kann auch ohne Grund geschehen.
 
@@ -180,7 +180,7 @@
 
     (a) Dieses Regelwerk ist für jeden Spieler und die Orga verbindlich.
 
-    (b) Für eine Änderrung an diesem Regelwerk stimmt die Orga ab; hierbei ist eine 2/3 Mehrheit vorausgesetzt. Alle Teilnehmer haben das Recht, eine Änderrung für das Regelwerk vorzuschlagen, wird dieser Vorschlag von der Mehrheit der aktiven Spieler als sinnvoll erachtet, so muss die Orga über diese Änderung abstimmen.
+    (b) Für eine Änderung an diesem Regelwerk stimmt die Orga ab; hierbei ist eine 2/3 Mehrheit vorausgesetzt. Alle Teilnehmer haben das Recht, eine Änderung für das Regelwerk vorzuschlagen, wird dieser Vorschlag von der Mehrheit der aktiven Spieler als sinnvoll erachtet, so muss die Orga über diese Änderung abstimmen.
 
     (c) Wird eine Änderung des Regelwerkes beschlossen, so werden alle Teilnehmer über diese informiert. Um eine weitere Vereinbarung zu gewährleisten, kann eine neue Bestätigung der Regeln von der Orga verlangt werden.
 
